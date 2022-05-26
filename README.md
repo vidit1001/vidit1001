@@ -1,6 +1,9 @@
-Hi there, I'm Vidit! Living in 🇨🇮
+**Hi there, I'm Vidit! Living in 🇨🇮**
+
+
 
 - 👋 Hi, I’m Vidit
+- 
 - 👀 I’m currently working on an EdTech Application - knohow.io
 - 🌱 I’m currently learning React, Redux & Solidity.
 - 💞️ I’m looking to collaborate on producing meaningful work.
