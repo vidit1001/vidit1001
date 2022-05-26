@@ -1,8 +1,8 @@
 # Foobar
 
 Foobar is a Python library for dealing with word pluralization.
-<a href=”LinkedIn profile URL”>
-<img src=”https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
+<a href=”https://www.linkedin.com/in/vidit-paranjpe-360837107”>
+<img src='https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue' />
 </a>
 
 ## Installation
